@@ -176,20 +176,34 @@
             setTimeout(() => {
                 appendMessage('bot', `입력하신 조건에 딱 맞는 최신 비교과 프로그램을 불러오는 중입니다... 🔍`, true);
                 
-                // [버그 해결 핵심] 키워드가 유연하게 매칭되도록 보완된 필터링 로직
-                const matchedPrograms = programsDatabase.filter(p => {
-                    const pCategory = (p.category || "").toLowerCase();
-                    const pMode = (p.operation_mode || "").toLowerCase();
-                    
-                    const userCategory = userState.category.toLowerCase();
-                    const userMode = userState.mode.toLowerCase();
+                // [업그레이드] 카테고리/모드 일치 + 오늘 날짜 기준 유효한 기간인 프로그램만 필터링
+const today = new Date(); // 오늘 날짜
 
-                    // 카테고리나 운영 방식에 단어가 포함되어 있으면 일치하는 것으로 판정
-                    const categoryMatch = pCategory.includes(userCategory) || userCategory.includes(pCategory);
-                    const modeMatch = pMode.includes(userMode) || userMode.includes(pMode);
+const matchedPrograms = programsDatabase.filter(p => {
+    const pCategory = (p.category || "").toLowerCase();
+    const pMode = (p.operation_mode || "").toLowerCase();
+    
+    const userCategory = userState.category.toLowerCase();
+    const userMode = userState.mode.toLowerCase();
 
-                    return categoryMatch && modeMatch;
-                });
+    const categoryMatch = pCategory.includes(userCategory) || userCategory.includes(pCategory);
+    const modeMatch = pMode.includes(userMode) || userMode.includes(pMode);
+
+    // 날짜 유효성 검사 (application_period에 "YYYY.MM.DD ~ YYYY.MM.DD" 형태가 포함되어 있다고 가정)
+    let isNotExpired = true;
+    if (p.application_period && p.application_period.includes('~')) {
+        const parts = p.application_period.split('~');
+        const endDateStr = parts[1].trim(); // 마감일 추출
+        const endDate = new Date(endDateStr.replace(/\./g, '-')); // 날짜 객체로 변환
+        
+        // 마감일이 오늘보다 이전이면 false (제외함)
+        if (!isNaN(endDate) && endDate < today) {
+            isNotExpired = false;
+        }
+    }
+
+    return categoryMatch && modeMatch && isNotExpired;
+});
 
                 setTimeout(() => {
                     showResults(matchedPrograms);
