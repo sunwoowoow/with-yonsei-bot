@@ -1,30 +1,218 @@
 [
-    {
-        "program_id": "2546",
-        "title": "[비교과] 2026학년도 AI·SW 해커톤 역량 강화 특강",
-        "purpose": "학생들의 AI 활용 기획 및 실무 역량 증진",
-        "introduction": "아이디어 기획부터 프로토타이핑까지 실무를 배우는 특강",
-        "operation_mode": "대면",
-        "target_audience": "1~4학년 전체",
-        "application_period": "2026.03.01 ~ 2026.03.15",
-        "topic_name": "AI/SW",
-        "operation_period": "2026.03.20 ~ 2026.03.22",
-        "domain": "진로/취업",
-        "category": "AI",
-        "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2546&ap_page=2"
-    },
-    {
-        "program_id": "2522",
-        "title": "[비교과] RC 리더십 세미나 및 공동체 운동 프로그램",
-        "purpose": "기숙사 및 캠퍼스 생활 속 리더십 함양",
-        "introduction": "리더십을 기르고 체력을 증진하는 야외/실내 활동",
-        "operation_mode": "대면",
-        "target_audience": "1~2학년",
-        "application_period": "2026.03.05 ~ 2026.03.20",
-        "topic_name": "운동/건강",
-        "operation_period": "2026.03.25 ~ 2026.03.28",
-        "domain": "대학생활",
-        "category": "운동",
-        "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2522&ap_page=2"
-    }
+  {
+    "title": "2026-2학기 수요찬양예배",
+    "category": "공연·문화",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "학교생활 때문에 지쳐있으신가요? 억눌린 감정을 표출하고 싶으신가요? 사랑이 가득한 기독교 문화를 경험하고 싶으신가요? 여러분들을 위해 연세인 수요찬양예배가 진행됩니다!!",
+    "application_period": "2026.09.04 ~ 2026.11.18",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2570"
+  },
+  {
+    "title": "2026 AI 국가공인 민간자격 취득과정 (AICE Associate 특별시험)",
+    "category": "특강·강좌",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "전공 및 AI 사전학습 수준과 관계없이 재학생이 자신의 역량과 학습목적에 따라 학습경로를 선택할 수 있도록 AICE Associate VOD, 실시간 집중특강, 자격시험 지원을 제공하는 자기주도형 AI·데이터 역량개발 프로그램입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.18",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2635"
+  },
+  {
+    "title": "2026학년도 학습법워크숍 - 노션(notion)을 활용한 팀프로젝트 운영",
+    "category": "특강·강좌",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "학생들의 AI·EduTech 역량을 향상시켜 학생의 성공적 자기주도 학습을 지원하는 프로그램입니다.",
+    "application_period": "2026.11.12 ~ 2026.11.18",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2681"
+  },
+  {
+    "title": "2026 AI 국가공인 민간자격 취득과정 (AICE Associate 집중 합격 문제풀이 특강)",
+    "category": "특강·강좌",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "전공 및 AI 사전학습 수준과 관계없이 재학생이 자신의 역량과 학습목적에 따라 학습경로를 선택할 수 있도록 단계별 학습과 문제풀이 특강을 제공하는 프로그램입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.19",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2676"
+  },
+  {
+    "title": "2026 비전공자를 위한 AI교육 프로그램 (코딩 없이 직접 해보는 AI 실습 「AI 활용 PBL 워크숍」1)",
+    "category": "그룹스터디",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "IT계열에 비해 AI 교육 기회가 상대적으로 적은 비전공 소속 학생들을 중심으로 경험 기반의 AI활용 교육 참여를 통해 문제 해결 능력을 강화하고, 취업 경쟁력 확보를 지원하는 프로그램입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.19",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2436"
+  },
+  {
+    "title": "2026 비전공자를 위한 AI교육 프로그램 (코딩 없이 직접 해보는 AI 실습 「AI 활용 PBL 워크숍」2)",
+    "category": "그룹스터디",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "IT계열에 비해 AI 교육 기회가 상대적으로 적은 비전공 소속 학생들을 중심으로 문제 해결 능력을 강화하고 취업 경쟁력 확보를 지원하는 PBL 워크숍입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.19",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2678"
+  },
+  {
+    "title": "2026 비전공자를 위한 AI교육 프로그램 (현직자는 AI를 어떻게 쓸까? 「실무 사례 중심 소규모 멘토링」 1)",
+    "category": "그룹스터디",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "비전공 학생들이 실제 업무와 채용에서 통하는 AI 활용 경험을 직접 만들어 볼 수 있도록 지원하는 현직자 소규모 멘토링 프로그램입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.19",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2632"
+  },
+  {
+    "title": "2026 비전공자를 위한 AI교육 프로그램 (현직자는 AI를 어떻게 쓸까? 「실무 사례 중심 소규모 멘토링」 2)",
+    "category": "그룹스터디",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "현직자의 생생한 실무 사례 중심 소규모 멘토링을 통해 비전공 학생들의 AI 활용 역량 및 취업 경쟁력 강화를 돕는 프로그램입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.19",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2636"
+  },
+  {
+    "title": "2026학년도 2학기 도서관 이용 교육",
+    "category": "특강·강좌",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "도서관 정보검색 방법부터 유용한 학술DB, 시설과 주요 서비스까지 대학생활에 꼭 필요한 도서관 활용법을 한 번에 알아봅니다.",
+    "application_period": "2026.09.01 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2637"
+  },
+  {
+    "title": "2026-2 원주 한 도시 한 책 읽기 운동_'안녕이라 그랬어' 읽기",
+    "category": "체험활동",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "원주시 한 도시 한 책 읽기 운동 선정도서를 읽으며 책 읽는 문화를 조성하고, 지역사회와 소통 및 공감 능력을 개발합니다.",
+    "application_period": "2026.09.01 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2638"
+  },
+  {
+    "title": "2026-2 대학생을 위한 학습윤리",
+    "category": "교육·설명회",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "학습윤리의 개념과 필요성을 알아보고, 주요 학습윤리 위반 유형과 올바른 인용·주석·참고문헌 작성 방법을 배웁니다.",
+    "application_period": "2026.09.01 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2639"
+  },
+  {
+    "title": "학부생을 위한 A+ 리포트 작성법 교육",
+    "category": "교육·설명회",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "학술DB 검색어 설계와 선행연구 탐색부터 AI Research Tools 활용까지 과제와 리포트를 스스로 작성할 수 있는 정보활용 역량을 기릅니다.",
+    "application_period": "2026.09.01 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2384"
+  },
+  {
+    "title": "[글쓰기 수업연계] 2026-2 도서관 이용교육(대면) 만족도 조사",
+    "category": "특강·강좌",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "2026학년도 2학기 글쓰기 수업과 연계한 도서관 이용자 교육에 참가한 학생들의 만족도 조사를 시행하기 위한 프로그램입니다.",
+    "application_period": "2026.09.09 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2669"
+  },
+  {
+    "title": "[지역인재 7급 추천채용] 2027전형 대비 PSAT 모의고사 (제9차)",
+    "category": "진단·검사",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "다회기 모의고사 응시를 통해 PSAT 유형을 파악하고, 인사혁신처 지역인재 7급 추천채용제도 합격 확률을 높이기 위한 프로그램입니다.",
+    "application_period": "2026.09.28 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2670"
+  },
+  {
+    "title": "2026학년도 2학기 한국도로교통공단과 함께하는 취업멘토링 (한국도로교통공단)",
+    "category": "교육·설명회",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "공공기관 현직자의 생생한 직무 경험과 최신 채용 정보를 직접 접할 수 있는 실질적인 정보 교류의 장을 제공합니다.",
+    "application_period": "2026.11.05 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2682"
+  },
+  {
+    "title": "2026학년도 2학기 한국도로교통공단과 함께하는 취업멘토링 (지역사회 멘토 대학생)",
+    "category": "교육·설명회",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "지역공부방 대학생 봉사자 등을 대상으로 공공기관 현직자의 직무 노하우와 구체적 진로 로드맵을 제공하는 취업 멘토링 프로그램입니다.",
+    "application_period": "2026.11.05 ~ 2026.11.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2626"
+  },
+  {
+    "title": "2026학년도 의사소통워크숍 - 온라인 의사소통워크숍: 게임처럼 팀플하라",
+    "category": "워크숍",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "대면·비대면 의사소통 상황에서 대학 학습 시 필요한 스피치 내용 학습 및 팀 프로젝트 소통법을 기르는 학습지원 프로그램입니다.",
+    "application_period": "2026.11.16 ~ 2026.11.22",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2665"
+  },
+  {
+    "title": "2026-2 경력개발팀 수기·영상 공모전",
+    "category": "공모전·경진대회",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "경력개발팀 및 커리어카페 등 진로·취업 지원 서비스에 대한 학생들의 관심과 참여를 확대하고, 프로그램 활용 경험 및 우수 사례를 공유하는 공모전입니다.",
+    "application_period": "2026.10.28 ~ 2026.11.22",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2680"
+  },
+  {
+    "title": "영어영문학과 초청 특별강연 <호메로스, 야만의 시작>",
+    "category": "특강·강좌",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "호메로스의 『일리아스』와 『오디세이아』를 통해 고대 그리스 신화와 영웅서사를 살펴보고, 현대 대중문화 콘텐츠를 비판적이고 창의적으로 해석하는 인문학적 사고력을 기릅니다.",
+    "application_period": "2026.11.04 ~ 2026.11.23",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2511"
+  },
+  {
+    "title": "2026 비전공자를 위한 AI교육 프로그램 (비전공자를 위한 진로 컨설팅)",
+    "category": "그룹스터디",
+    "operation_mode": "블렌디드(혼합)",
+    "introduction": "비IT계열 전공 재학생 및 졸업생을 대상으로 AI 활용 역량과 연계한 맞춤형 진로 컨설팅을 제공하는 프로그램입니다.",
+    "application_period": "2026.10.29 ~ 2026.11.27",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2364"
+  },
+  {
+    "title": "2026-2학기 대학교회 한울림찬양대 (11월)",
+    "category": "공연·문화",
+    "operation_mode": "블렌디드(혼합)",
+    "introduction": "대학교회 주일예배의 한울림 찬양대를 통해 협력과 소통을 배우고 찬양의 소중함을 알아가는 시간입니다.",
+    "application_period": "2026.09.17 ~ 2026.11.29",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2386"
+  },
+  {
+    "title": "2026-2학기 마음건강 자가진단 활성화 이벤트_11월",
+    "category": "진단·검사",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "정기적인 자가진단 참여를 통해 학생들의 지속적인 마음건강 관리 습관을 형성하고 내 마음을 돌보는 이벤트입니다.",
+    "application_period": "2026.11.01 ~ 2026.11.30",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2657"
+  },
+  {
+    "title": "YONSEI SAFE ON: 폭력예방교육 참여 활성화 프로그램",
+    "category": "교육·설명회",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "LearnUs에서 온라인 폭력예방교육을 이수하고 수료증을 제출하여 인권 감수성을 제고하고 안전한 대학 문화를 조성하기 위한 프로그램입니다.",
+    "application_period": "2026.09.01 ~ 2026.11.30",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2658"
+  },
+  {
+    "title": "2027-1 글로벌 빌리지 프로그램 (영어)",
+    "category": "체험활동",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "미래캠퍼스 학부 재학생이 외국인 교환학생 또는 유학생과 생활관에 함께 거주하면서 외국 언어를 배우고 서로 문화를 교류하는 프로그램입니다.",
+    "application_period": "2026.11.04 ~ 2026.12.09",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2659"
+  },
+  {
+    "title": "2027-1 글로벌 빌리지 프로그램 (중국어)",
+    "category": "체험활동",
+    "operation_mode": "오프라인(대면)",
+    "introduction": "외국인 유학생과의 생활관 동거 생활을 통해 외국어 의사소통 능력을 향상하고 문화 상대주의 관점을 함양하는 글로벌 빌리지 프로그램입니다.",
+    "application_period": "2026.11.04 ~ 2026.12.09",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2522"
+  },
+  {
+    "title": "2026년 동계방학 온라인 현직자 직무부트캠프",
+    "category": "멘토링",
+    "operation_mode": "온라인(비대면)",
+    "introduction": "3~10년차 현직자 멘토와 함께 5주간 현업 실무 과제를 수행하고 취업에 필요한 실제 결과물과 포트폴리오를 얻는 일경험 기반 직무교육입니다.",
+    "application_period": "2026.09.22 ~ 2026.12.13",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2512"
+  },
+  {
+    "title": "2026-2학기 대학교회 한울림찬양대 (12월)",
+    "category": "공연·문화",
+    "operation_mode": "블렌디드(혼합)",
+    "introduction": "대학교회 주일예배의 한울림 찬양대 활동을 통해 소통과 협력을 이루고 섬김의 정신을 배우는 프로그램입니다.",
+    "application_period": "2026.09.17 ~ 2026.12.20",
+    "url": "https://with.yonsei.ac.kr/with/nsp.htm?ch=1&mode=view&tid=2546"
+  }
 ]
